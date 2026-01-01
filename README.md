@@ -15,20 +15,6 @@ This repository is created mainly for **daily revision, practice, and concept cl
 
 ---
 
-## 🗂️ Structure (Will Grow Over Time)
-
-```
-100-Days-of-ML/
-│
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── ...
-│
-└── README.md
-```
-
----
 
 ## 🛠️ Tools & Tech
 
@@ -49,7 +35,8 @@ To stay **consistent** and build a **strong foundation in Machine Learning** thr
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/100-Days-of-ML.git
+git clone https://github.com/Adirohansuyal/100_days_ML_Revise
+
 ```
 
 Open any `Day-XX` folder and start learning.

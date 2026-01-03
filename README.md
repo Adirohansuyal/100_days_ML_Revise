@@ -1,4 +1,4 @@
-# 🚀 100 Days of Machine Learning
+# 🚀 100 Days of Machine Learning Revision.....
 
 A simple and consistent journey to **revise and learn Machine Learning concepts step by step**.
 

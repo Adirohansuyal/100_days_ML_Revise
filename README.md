@@ -39,7 +39,7 @@ git clone https://github.com/Adirohansuyal/100_days_ML_Revise
 
 ```
 
-Open any `Day-XX` folder and start learning.
+Open any `Day-XX` folder and start learning day by day.
 
 ---
 

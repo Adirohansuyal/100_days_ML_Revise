@@ -32,6 +32,4 @@ This video marks the beginning of a series titled "100 Days of Machine Learning.
 
 * The instructor notes that there is currently a high demand and low supply of ML talent, leading to high salaries. He encourages learning now while the field is still in its high-growth phase.
 
-## What's Next?
 
-The next video in the series will cover the differences between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).

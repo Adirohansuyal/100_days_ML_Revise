@@ -16,7 +16,7 @@ This video marks the beginning of a series titled "100 Days of Machine Learning.
 * **Conventional Programming**: You provide a program (logic) and input to get an output.
 * **Machine Learning**: You provide input and output data, and the machine learning algorithm generates the logic (the program) by identifying patterns.
 
-### Why Use Machine Learning?
+### Why to Use Machine Learning?
 
 * **Complexity**: It handles tasks where you cannot write manual "if-else" rules for every scenario, such as Spam Classification or Image Recognition (e.g., identifying different breeds of dogs).
 * **Adaptability**: ML models can automatically adjust to new data patterns without manual code changes.

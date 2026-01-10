@@ -19,7 +19,7 @@ This video marks the beginning of a series titled "100 Days of Machine Learning.
 ### Why to Use Machine Learning?
 
 * **Complexity**: It handles tasks where you cannot write manual "if-else" rules for every scenario, such as Spam Classification or Image Recognition (e.g., identifying different breeds of dogs).
-* **Adaptability**: ML models can automatically adjust to new data patterns without manual code changes.
+* **Adaptability**: ML models can automaticallly adjust to new data patterns without manual code changes.
 * **Data Mining**: It is essential for finding hidden patterns in massive datasets.
 
 ### The Boom of Machine Learning

@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning - Introduction
 
-This video marks the beginning of a series titled "100 Days of Machine Learning." It provides an introduction to the field, explains why it has become so popular recently, and outlines the roadmap for the upcoming course.
+This video marks the beginning of a series titled "100 Days of Machine Learning." It provides an introduction to the field, explains why it has become so popular recently, and outlines the roadmap for the upcoming course..
 
 ## Key Highlights of the Video
 

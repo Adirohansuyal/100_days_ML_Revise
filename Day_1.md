@@ -6,7 +6,7 @@ This video marks the beginning of a series titled "100 Days of Machine Learning.
 
 ### Course Overview
 
-* The instructor plans to upload one video every day for 100 days.
+* The instructor plans to upload one video every day for 100 days,
 * The focus is on the Machine Learning Life Cycle, including data preprocessing, feature engineering, and model deployment, rather than just learning algorithms.
 * It is designed for beginners to intermediate learners.
 

@@ -24,7 +24,7 @@ This video marks the beginning of a series titled "100 Days of Machine Learning.
 
 ### The Boom of Machine Learning
 
-* Although the theory has existed for decades, ML became a "superstar" after 2010 due to two factors:
+* Although the theory had existed for decades, ML became a "superstar" after 2010 due to two factors:
   1. **Massive Data**: The explosion of internet and smartphone usage provided the necessary data to train models.
   2. **Hardware Advancement**: The availability of powerful GPUs and high RAM allowed complex algorithms to run efficiently.
 

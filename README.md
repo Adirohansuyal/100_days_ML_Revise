@@ -199,6 +199,6 @@ This project is open source and available for educational purposes. Feel free to
 
 **Made with ❤️ for the ML Community**
 
-*Last Updated: January 2026*
+*Keep learning and growing! 🌱*
 
 </div>
